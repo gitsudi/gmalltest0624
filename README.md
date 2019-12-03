@@ -2,5 +2,5 @@
 gmall
 ## testGmall
 This is a Gmalltest
-###myGit
+##myGit
 GitInstall
